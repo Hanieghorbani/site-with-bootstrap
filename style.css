@@ -8,4 +8,17 @@ body{
     font-family: yekan !important;
 }
 
+.bi{
+    color: rgb(0, 145, 255);
+    background-color: rgb(218, 236, 250);
+}
+
+.card-main{
+    background-color: #1b2a4e;
+    color: white;
+}
+
+.card-main p{
+    color: white !important;
+}
 
